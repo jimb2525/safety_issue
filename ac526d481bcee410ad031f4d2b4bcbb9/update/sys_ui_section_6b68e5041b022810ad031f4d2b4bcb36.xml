@@ -168,6 +168,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_1</element>
+            <position>12</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2021-02-22 17:18:59</sys_created_on>
+            <sys_id>972837281be66010ad031f4d2b4bcb06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_saf_issue_issue" sys_domain="global" view="Default view">6b68e5041b022810ad031f4d2b4bcb36</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2021-02-22 17:18:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

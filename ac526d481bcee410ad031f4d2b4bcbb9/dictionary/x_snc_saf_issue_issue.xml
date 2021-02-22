@@ -7,5 +7,6 @@
                 <element inactive_on_update="false" label="Sppiil Risk" value="sppiil_risk"/>
             </choice>
         </element>
+        <element label="Test 1" max_length="40" name="test_1" type="string"/>
     </element>
 </database>
