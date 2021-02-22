@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Safety Issues Issue">44d46d4c1bcee410ad031f4d2b4bcbfb</data_item>
+        <dependency_fields>state,number,short_description,opened_by,opened_by.avatar,priority</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"CornerRadius":2,"CellId":"state","MaxLines":1,"studio_template_field_id":"E1","Text":"","TextAlignment":"Center","Font":{"Weight":"semibold","Size":13},"Width":100,"Height":21,"BackgroundColor":"#f1f1f1","TextColor":"#293e40","Type":"Text"}],"Distribution":"Auto","Alignment":"Left","Orientation":"Vertical","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"CellId":"number","MaxLines":1,"studio_template_field_id":"E2","Text":"","TextAlignment":"Right","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","Type":"Text"}],"Distribution":"Auto","Alignment":"Right","Orientation":"Vertical","Type":"ViewGroup"}],"Distribution":"Equal","Alignment":"Stretch","Orientation":"Horizontal","Type":"ViewGroup"},{"CellId":"short_description","MaxLines":2,"studio_template_field_id":"E3","Text":"","TextAlignment":"Left","Font":{"Weight":"regular","Size":18},"TextColor":"#293e40","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"studio_template_is_label":true,"MaxLines":1,"studio_template_field_id":"E4","Text":"${opened_by}","TextAlignment":"Left","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","Margin":{"Right":8},"Type":"Text"},{"CornerRadius":11,"CellId":"opened_by.avatar","Scaling":"Fill","studio_template_field_id":"E5","Width":22,"Height":22,"Margin":{"Right":6},"Type":"Image"},{"CellId":"opened_by","MaxLines":1,"studio_template_field_id":"E4","Text":"","TextAlignment":"Left","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","Type":"Text"}],"Distribution":"Auto","Alignment":"Center","Orientation":"Horizontal","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"studio_template_is_label":true,"MaxLines":1,"studio_template_field_id":"E6","Text":"${priority}","TextAlignment":"Left","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","Margin":{"Right":8},"Type":"Text"},{"CellId":"priority","MaxLines":1,"studio_template_field_id":"E6","Text":"","TextAlignment":"Left","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","Type":"Text"}],"Distribution":"Auto","Alignment":"Center","Orientation":"Horizontal","Margin":{"Top":7},"Type":"ViewGroup"}],"Distribution":"Auto","Alignment":"Left","Orientation":"Vertical","Type":"ViewGroup"}],"Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Alignment":"Stretch","Orientation":"Vertical","Margin":{"Bottom":15,"Top":17},"Type":"ViewGroup"}</item_view_json>
+        <name>Issue Detail Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-26 20:46:48</sys_created_on>
+        <sys_id>88d46d4c1bcee410ad031f4d2b4bcbfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issue Detail Screen Item View</sys_name>
+        <sys_package display_value="Safety Issues" source="x_snc_saf_issue">ac526d481bcee410ad031f4d2b4bcbb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Issues">ac526d481bcee410ad031f4d2b4bcbb9</sys_scope>
+        <sys_update_name>sys_sg_item_view_88d46d4c1bcee410ad031f4d2b4bcbfc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-26 20:46:48</sys_updated_on>
+        <table>x_snc_saf_issue_issue</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=88d46d4c1bcee410ad031f4d2b4bcbfc"/>
+</record_update>
